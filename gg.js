@@ -1,4 +1,0 @@
-// prithivirajan
-//simple output
-//ss
-
